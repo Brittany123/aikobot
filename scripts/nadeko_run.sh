@@ -1,14 +1,14 @@
 #!/bin/sh
-clientid=""
-botid=""
-token=""
-ownerid=""
+clientid="326544509016080395"
+botid="326544509016080395"
+token="zI2NTQ0NTA5MDE2MDgwMzk1.DCtUyQ.4cPXP-5et2Qv7ieZPblrbwe8Bd8"
+ownerid="226083477177630720,123958998490808320"
 googleapi=""
 lolapikey=""
 mashapekey=""
 osu=""
 scid=""
-connection="Data Source=;Initial Catalog=;User ID=;Password="
+connection="my.gearhost.com=;mssql3.gear.host=;aikodb ID=;Pz8v2!_O9iHe"
 
 echo "NadekoBot 1.3b"
 
